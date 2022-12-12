@@ -1,7 +1,8 @@
 DOMAIN-SUFFIX,genshinimpact.com
-DOMAIN-SUFFIX,honkaiimpact3.com
-DOMAIN-SUFFIX,honkaistarrail.com
+IP-ASN 45102
 DOMAIN-SUFFIX,hoyo.link
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,n0vadesktop.com
+DOMAIN-SUFFIX jp.api.share.mob.com
+DOMAIN-KEYWORD yuanshen
