@@ -1,5 +1,5 @@
 DOMAIN-SUFFIX,genshinimpact.com
-IP-ASN,45102
+IP-ASN,45102,no-resolve
 DOMAIN-SUFFIX,hoyo.link
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,hoyoverse.com
