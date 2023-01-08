@@ -3,6 +3,9 @@ api-access.pangolin-sdk-toutiao.com
 mi.gdt.qq.com
 open.e.kuaishou.com
 wmedia-track.uc.cn
+# 腾讯视频广告屏蔽
+pgdt.gtimg.cn
+c.l.qq.com
 # > Youku & Tudou
 yk-ssp.ad.youku.com
 actives.youku.com
@@ -49,3 +52,4 @@ val.api.youku.com
 wan.youku.com
 ykatr.youku.com
 ykrec.youku.com
+wmedia-track.uc.cn
