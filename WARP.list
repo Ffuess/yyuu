@@ -1,0 +1,5 @@
+api.cloudflareclient.com
+2606:4700:4700::1111,no-resolve
+cloudflare.com
+1.1.1.1,no-resolve
+zero-trust-client.cloudflareclient.com
