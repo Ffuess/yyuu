@@ -1,5 +1,6 @@
-IP-ASN,134760,no-resolve
-IP-ASN,139080,no-resolve
+IP-CIDR,223.85.108.0/24,no-resolve
+IP-CIDR,223.85.19.0/24,no-resolve
+IP-CIDR,112.45.118.0/24,no-resolve
 # 知乎屏蔽域名dns查询
 DOMAIN,118.89.204.198
 IP-CIDR,118.89.204.198/32,no-resolve
