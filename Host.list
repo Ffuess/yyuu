@@ -4,17 +4,16 @@ mi.gdt.qq.com
 open.e.kuaishou.com
 wmedia-track.uc.cn
 # 腾讯视频广告屏蔽
-pgdt.gtimg.cn
 c.l.qq.com
-# > 腾讯视频
-tetrack.qq.com
-tpns.tencent.com
-api.poll.video.qq.com
-static-res.qq.com
-stat.tpns.tencent.com
-h.trace.qq.com
-omgmta.qq.com
-omgmta1.qq.com
+
+adsmind.gdtimg.com
+btrace.qq.com
+info4.video.qq.com
+info6.video.qq.com
+ios.video.mpush.qq.com
+mtrace.qq.com
+pgdt.gtimg.cn
+vv.video.qq.com
 
 # > Youku & Tudou
 yk-ssp.ad.youku.com
