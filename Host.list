@@ -77,10 +77,24 @@ al-log.d.meituan.net
 babel-statistics-android.d.meituan.net
 maplocatesdksnapshot.d.meituan.net
 metrics-picture.d.meituan.net
+open.kuaishouzt.com
 route-stats.d.meituan.net
 
 # 网上国网
 h5-api.feiersmart.com
 
-
+# 芒果TV
+credits.bz.mgtv.com
+credits2.bz.mgtv.com
+credits3.bz.mgtv.co
+dflow.bz.mgtv.com
+encounter.bz.mgtv.com
+floor.bz.mgtv.com
+layer.bz.mgtv.com
+mob.bz.mgtv.com
+rc-topic-api.bz.mgtv.com
+rprain.bz.mgtv.com
+rprain.log.mgtv.com
+vip.bz.mgtv.com
+da.mgtv.com
 
