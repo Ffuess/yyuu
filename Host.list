@@ -6,7 +6,6 @@ wmedia-track.uc.cn
 # 腾讯视频广告屏蔽
 c.l.qq.com
 
-adsmind.gdtimg.com
 btrace.qq.com
 info4.video.qq.com
 info6.video.qq.com
@@ -67,8 +66,6 @@ ad.lofter.com
 # > 红果小说
 ads3-normal-hl.zijieapi.com
 ads5-normal-hl.zijieapi.com
-
-# > 红果小说
 ads5-normal-lq.zijieapi.com
 ads3-normal-lq.zijieapi.com
 
