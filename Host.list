@@ -86,6 +86,11 @@ route-stats.d.meituan.net
 # 网上国网
 h5-api.feiersmart.com
 
+# 微信dns
+dns.weixin.qq.com
+dns.weixin.qq.com.cn
+aedns.weixin.qq.com
+
 # 芒果TV
 credits.bz.mgtv.com
 credits2.bz.mgtv.com
